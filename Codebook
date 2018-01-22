@@ -1,6 +1,0 @@
-Variables
-
-trainingData: reads in train related raw data
-testData: reads in test related raw data
-finalData: merged data. later refined for tidy dataset purpose
-tidyData: the final output data
