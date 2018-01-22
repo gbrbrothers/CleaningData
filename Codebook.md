@@ -1,7 +1,7 @@
-Columns of the output file:
+## Columns of the output file: ##
 
--subject_id: The id of the experiment participant
--activity_labels: The name of the activity
+- subject_id: The id of the experiment participant
+- activity_labels: The name of the activity
 
 ## Mean of data points (described in features_info.txt of the original zip file) ##
 
